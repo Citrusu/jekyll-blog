@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "About"
+description: "Hey, this is Citrus."
+header-img: "img/about-bg.jpg"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+92年男，Web前端工程师，双重性格，爱动亦喜静，最崇尚那句“动可周身而济天下，静可崇高而抗浮云”。喜欢各类运动，但最爱自行车和游泳。静静的我喜欢阅读，听音乐，敲代码。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+关于这个博客，我希望：
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+可以记录自己的成长，主要是工作上面的技术文章。也有一些生活上的小感悟，更新并不会定期，但会做到有质量有态度。
+分享自己学习、思考、总结的过程，及所得、感想、经验。
+积累更多的知识，丰富自己也帮助他人，并希望能通过自己的分享带动技术的分享精神。
+虽然文笔很一般，但是以前还是挺喜欢写点东西，自从工作之后由于各种原因这个随便写写的习惯慢慢淡去，综上也希望在实际中提高下自己的写作能力。
