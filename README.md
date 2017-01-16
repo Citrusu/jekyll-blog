@@ -1,3 +1,3 @@
-# Hux blog 模板
+# Citrus's blog
 
-### [我的博客在这里 &rarr;](http://hicitrus.com)
+### [http://hicitrus.com](http://hicitrus.com)
