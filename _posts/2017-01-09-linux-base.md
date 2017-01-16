@@ -18,6 +18,7 @@ tags:
 
 ## 创建软链接/快捷方式
     ln -s 源文件 目标文件
+    
 >  当前目录是`/local`，而我经常要访问`/usr/local/linux/work`
 那么我就可以使用在`local`下建立一个文件`linkwork`，
 然后`ln -s /usr/local/linux/work  /local/linkwork`
