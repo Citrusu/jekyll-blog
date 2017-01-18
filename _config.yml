@@ -91,9 +91,17 @@ service-worker: true
 
 
 # Friends
-# friends: [
-#    {
-#        title: "前端神盾局",
-#       href: "http://wepiaofei.github.io/blog/"
-#    }
-#]
+ friends: [{
+    title: "阮一峰的网络日志",
+    href: "http://www.ruanyifeng.com/blog/"
+    },{
+    title: "廖雪峰",
+    href: "http://www.liaoxuefeng.com/"
+  },{
+    title: "caniuse",
+    href: "http://caniuse.com/"
+  },{
+    title: "掘金",
+    href: "https://gold.xitu.io/welcome/frontend"
+  }
+]
